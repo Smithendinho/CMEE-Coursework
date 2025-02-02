@@ -1,0 +1,25 @@
+
+#1
+wc ../data/fasta/E.coli.fasta 
+wc ../data/fasta/407228326.fasta
+wc ../data/fasta/407228412.fasta
+
+#2
+tail -n +2 ../data/fasta/E.coli.fasta
+
+#3
+tail -n+2 ../data/fasta/E.coli.fasta | tr -d '\n' | wc -m 
+# tail is not only a printing command, it can be used in pipelines!
+# tr -d '\n' means to remove new line characters.
+
+#4
+grep -o -i ATGC ../data/fasta/E.coli.fasta | wc -l
+# -o means 'only matching'
+# -i means 'case insensitive'
+# wc -l means number of lines
+
+#5
+echo $(grep -o [A,T] ../data/fasta/E.coli.fasta | wc -l) / $(grep -o [C,G] ../data/fasta/E.coli.fasta | wc -l) | bc -l
+# the dollar signs indicate command substitution so inside the brackets is effectively just the output.
+# bc -l allows for maths to be done in bash
+# i learned to always add the directory before the file name to lead it to the E.coli.fasta file.

@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\graphicspath{{../images/}}
+
+\title{Florida Temperature}
+\author{Sam Smith}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+The Correlation Coefficient between years and temperature in Florida from 1901 to 2000 is 0.53.
+However, temperature data in successive time points are not independent as previous temperatures affect present temperatures. Therefore permutation analysis is necessary to generate a distribution of random coefficients to evaluate the probability that the 0.53 coefficient happened by chance. I generated 100,000 different random permutations of the temperature data and computed their respective correlation coefficient with respect to years. These coefficients were stored a vector. A histogram illustrating the distribution of these coefficients is shown in fig 1.
+
+\begin{center}
+\includegraphics[scale=0.47]{rplot.jpg}\\  
+\end{center}
+
+It is clear from fig 1 that the correlation coefficients of the 100,000 randomly generated temperature values are normally distributed around 0 with a range of -0.407 to 0.436. It is clear from this range and the red line on fig 1 that the real correlation coefficient significantly differs from the correlation coefficients from the permutation analysis. Finally, the percentage of permuated correlation coefficients that exceeded the true corelation value was 0. Therefore it can be said for certain that there is a correlation. However, it is important to note that if the permutated correlation coefficients were rerun or increased in number the p value may exceed 0.
+\end{document}
