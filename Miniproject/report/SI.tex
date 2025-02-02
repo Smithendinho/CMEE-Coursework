@@ -1,0 +1,51 @@
+\documentclass[12pt]{article}
+\usepackage{csvsimple}
+\usepackage{booktabs}
+\usepackage{longtable}
+\nonstopmode
+\title{Temperature Does Not Affect Model Performance when Predicting Microbial Population Growth}
+\author{Sam Smith}
+\date{}
+
+\begin{document}
+\begin{titlepage}
+
+    \maketitle
+    \centering
+    \section*{SUPPLIMENTARY INFORMATION}
+
+\end{titlepage}
+  
+  \section{Figure 1 Data \cite{Roth1962}}
+  \begin{table}[h]
+    \centering
+        \csvautotabular{../results/Figure1Data.csv}
+  \end{table}
+\clearpage
+  \section{Figure 2 Data}
+  \begin{table}[h]
+    \centering
+        \csvautotabular{../results/AICtemp.csv}
+  \end{table}
+\clearpage
+  \section{Parameter Estimations for use in follow up study}
+  \begin{table}
+    \csvautotabular{../results/paramdf_1.csv}
+  \end{table}
+  \begin{table}
+    \csvautotabular{../results/paramdf_2.csv}
+  \end{table}
+  \begin{table}
+    \csvautotabular{../results/paramdf_3.csv}
+  \end{table}
+  \begin{table}
+    \csvautotabular{../results/paramdf_4.csv}
+  \end{table}
+  \begin{table}
+    \csvautotabular{../results/paramdf_5.csv}
+  \end{table}
+  \clearpage
+  \bibliographystyle{apalike}
+  
+  \bibliography{SIbibliography}
+\end{document}

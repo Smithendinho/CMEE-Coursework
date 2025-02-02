@@ -1,0 +1,4 @@
+Model,AICc,BIC,R^2,AkaikeW
+Logistic,56,28,26,47
+Cubic,52,73,84,40
+Gompertz,72,76,92,59

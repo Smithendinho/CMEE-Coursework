@@ -1,0 +1,42 @@
+Species,Temperature,Rmax,K,Group
+Arthrobacter citreus,0,0.14,4.26,5
+Arthrobacter citreus,7,0.14,5.22,5
+Arthrobacter citreus,20,0.21,6.27,5
+Arthrobacter citreus,30,0.27,1.91,5
+Arthrobacter citreus,37,0.39,19.77,5
+Arthrobacter globiformis,7,0.01,115.39,5
+Arthrobacter globiformis,20,0.16,7.14,5
+Arthrobacter globiformis,30,0.04,191.89,5
+Arthrobacter globiformis,37,0.08,205.38,5
+Arthrobacter simplex,0,0,1.78,5
+Arthrobacter simplex,7,0.06,1.01,5
+Arthrobacter simplex,20,0.16,20.14,5
+Arthrobacter simplex,30,0.13,23.55,5
+Lactobacillus plantarum,8,0.06,16.47,5
+Lactobacillus plantarum,12,0.17,465918.97,5
+Lactobacillus plantarum,20,0.47,2410978170.25,5
+Lactobacillus plantarum,30,1.94,134.52,5
+Weissella viridescens,4,0.06,2327.55,5
+Weissella viridescens,8,0.2,20.35,5
+Weissella viridescens,12,0.55,443.85,5
+Weissella viridescens,16,0.18,1362211190.39,5
+Weissella viridescens,20,0.38,1723868483.05,5
+Weissella viridescens,30,0.88,1478475784.42,5
+Lactobacillus sakei,4,0.1,661.92,5
+Lactobacillus sakei,8,0.23,19.35,5
+Lactobacillus sakei,12,0.52,40.75,5
+Lactobacillus sakei,16,0.23,1281403231.49,5
+Lactobacillus sakei,20,1.16,79612582.68,5
+Lactobacillus sakei,30,1.09,1479234929.71,5
+Oscillatoria agardhii Strain 97,15,0.01,4.27,5
+Oscillatoria agardhii Strain 97,20,0.01,4.29,5
+Oscillatoria agardhii Strain 97,25,0.01,5.55,5
+Oscillatoria agardhii StrainCYA 128,15,0.01,3.69,5
+Oscillatoria agardhii StrainCYA 128,30,0.01,5.35,5
+Pseudomonas sp,15,0.2,1030130.44,5
+Pseudomonas sp,12,0.81,56048.24,5
+Pseudomonas sp,6,0.13,1670868.96,5
+Pseudomonas sp,2,0.05,558158.05,5
+Lactobaciulus plantarum,10,0.14,7.95,5
+Lactobaciulus plantarum,15,0.39,0.91,5
+Lactobaciulus plantarum,25,0.87,395.32,5

@@ -1,0 +1,41 @@
+Species,Temperature,Rmax,K,Group
+Dickeya,25,1.13,-0.45,2
+Pectobacterium,25,0.74,-0.54,2
+Dickeya,25,0.37,0.73,2
+Acinetobacter,25,0.27,0.11,2
+Stenotrophomonas,25,0.22,0.21,2
+Bacillus,25,0.19,-1.07,2
+Clavibacter,25,0.15,0.3,2
+Chryseobacterium,35,0.08,0.19,2
+Bacillus,35,0.18,-0.3,2
+Clavibacter,35,0.29,0.72,2
+Pseudomonas,35,0.27,-0.19,2
+Acinetobacter,35,0.31,0.36,2
+Stenotrophomonas,35,0.25,0.21,2
+Stenotrophomonas,35,0.28,0.13,2
+Bacillus,35,0.24,-0.58,2
+Tetraselmis tetrahele,8,0.04,9.83,2
+Tetraselmis tetrahele,32,0.09,6.23,2
+Staphylococcus spp,2,0.05,8.16,2
+Staphylococcus spp,4,0.06,5.9,2
+Staphylococcus spp,7,0.12,0.34,2
+Staphylococcus spp,10,0.21,7.67,2
+Staphylococcus spp,15,0.27,6.96,2
+Staphylococcus spp,20,0.43,2.53,2
+Staphylococcus spp,2,0.04,7.96,2
+Staphylococcus spp,4,0.01,457.01,2
+Staphylococcus spp,7,0.11,7.56,2
+Staphylococcus spp,10,0.15,10.67,2
+Staphylococcus spp,15,0.22,8.64,2
+Staphylococcus spp,20,0.39,9.39,2
+Staphylococcus spp,2,0.06,0.01,2
+Staphylococcus spp,4,0.08,5.79,2
+Staphylococcus spp,7,0.08,6.42,2
+Staphylococcus spp,15,0.25,8.22,2
+Staphylococcus spp,20,0.38,10.29,2
+Pseudomonas spp,2,0.09,6.08,2
+Pseudomonas spp,4,0.1,48.99,2
+Pseudomonas spp,7,0.11,6.5,2
+Pseudomonas spp,10,0.2,7.63,2
+Pseudomonas spp,15,0.25,17.08,2
+Pseudomonas spp,20,0.43,9.21,2

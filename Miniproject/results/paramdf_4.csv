@@ -1,0 +1,41 @@
+Species,Temperature,Rmax,K,Group
+Aerobic Mesophilic,10,0.25,7.94,4
+Aerobic Mesophilic,15,0.38,6.88,4
+Aerobic Mesophilic,20,0.63,8.16,4
+Spoilage,8,1.14,16964.74,4
+Spoilage,10,1.43,13657.26,4
+Escherichia coli,10,1.3,2790.35,4
+Spoilage,12,1.08,11924.51,4
+Escherichia coli,15,2.26,9203.08,4
+Salmonella Typhimurium,15,2.17,5492.1,4
+Salmonella Typhimurium,15,2.32,231.64,4
+Spoilage,20,3.26,13025.86,4
+Escherichia coli,20,10,14849.08,4
+Salmonella Typhimurium,20,10,10981.48,4
+Escherichia coli,20,4.35,9485.78,4
+Salmonella Typhimurium,20,10,5631.68,4
+Escherichia coli,30,10,10903.89,4
+Salmonella Typhimurium,30,10,6021.7,4
+Salmonella Typhimurium,30,10,6583.32,4
+Serratia marcescens,15,0.02,8.1,4
+Serratia marcescens,15,0.01,2765.93,4
+Serratia marcescens,15,0.01,2352.13,4
+Serratia marcescens,15,0,2353.35,4
+Serratia marcescens,15,0.01,2052.97,4
+Serratia marcescens,15,0.01,2868.8,4
+Arthrobacter sp,0,0.04,6.18,4
+Arthrobacter sp,7,0.1,6.19,4
+Arthrobacter sp,20,0.1,281.3,4
+Arthrobacter sp,30,0.59,1.03,4
+Arthrobacter sp,0,0.05,4.99,4
+Arthrobacter sp,7,0.03,188.1,4
+Arthrobacter sp,20,0.31,1.01,4
+Arthrobacter sp,30,0.03,881.06,4
+Arthrobacter sp,37,0,1.88,4
+Arthrobacter sp,0,0.04,6.32,4
+Arthrobacter sp,7,0.09,144.65,4
+Arthrobacter sp,20,0.35,6.69,4
+Arthrobacter sp,37,0,1.12,4
+Arthrobacter aurescens,7,0.11,1.81,4
+Arthrobacter aurescens,20,0.16,125.08,4
+Arthrobacter aurescens,37,0.03,76.2,4
